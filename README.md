@@ -17,3 +17,5 @@
     + grafana docs
   + https://www.jenkins.io/doc/
     + jenkins docs
+  + https://minikube.sigs.k8s.io/docs/start/
+    + minikube docs
