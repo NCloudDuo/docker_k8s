@@ -11,10 +11,10 @@
    1. --node는 노드의 갯수, -p는 profile을 의미합니다.
    2. 상당히 오래걸리는 작업입니다.
 3. `minikube status -p multinode-demo`
-   ![minikube명령어 결과](images/minikube_status_result.png)
+   ![minikube명령어 결과](../images/minikube_status_result.png)
     + 하나의 Control Plane, 3개의 Worker Node로 구성된 것을 알 수 있습니다.
 4. `kubectl get nodes`
-   ![kubectl_get_nodes_result](images/kubectl_get_nodes_result.png)
+   ![kubectl_get_nodes_result](../images/kubectl_get_nodes_result.png)
 
 ### minikube cluster삭제하기
 1. `minikube delete --profile=multinode-demo`
