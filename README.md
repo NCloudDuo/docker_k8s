@@ -2,6 +2,7 @@
 
 + 책
   + 컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커
+    + github : https://github.com/sysnet4admin/_Book_k8sInfra
 
 + 스터디날짜
   + 매주 월요일 9시
